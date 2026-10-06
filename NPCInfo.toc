@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: |cff4FB3E8NPC Info|r
+## Title-ruRU: |cff4FB3E8NPC Info|r - досье мобов
+## Notes: Full NPC dossier: health, level, damage range, attack speed, abilities with icons, threat estimate for your character and tips.
+## Notes-ruRU: Досье на любого NPC: здоровье, уровень, урон, скорость атаки, способности с иконками, оценка угрозы для вашего персонажа и советы.
+## Author: John Kalligan
+## Version: 1.1.1
+## X-License: GPL-2.0-or-later
+## SavedVariables: NPCInfoDB, NPCInfoCalib
+## SavedVariablesPerCharacter: NPCInfoChar
+
+Core.lua
+Skin.lua
+MobData.lua
+MobSpells.lua
+MobDB.lua
+DPS.lua
+Threat.lua
+MobInfo.lua
+Tooltip.lua
+GUI.lua
